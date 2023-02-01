@@ -23,6 +23,6 @@ const onClickAdd = () => {
     document.getElementById("memo-list").appendChild(li);
 };
 
-document
-    .getElementById("add-button")
-    .addEventListener("click", () => onClickAdd());
+// document
+//     .getElementById("add-button")
+//     .addEventListener("click", () => onClickAdd());
